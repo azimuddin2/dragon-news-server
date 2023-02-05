@@ -5,7 +5,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "01",
+        "category_id": "breaking-news",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -13,9 +13,9 @@
         "total_view": 488,
         "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
         "author": {
-            "name": "Jimmy Dane",
+            "name": "Ayman Sadiq",
             "published_date": "2022-08-24 17:27:34",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            "img": "https://i.ibb.co/L91Wq6G/ayman-sadiq.jpg"
         },
         "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
         "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
@@ -27,7 +27,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "03",
+        "category_id": "international-news",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -35,9 +35,9 @@
         "total_view": 488,
         "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
         "author": {
-            "name": "Jimmy Dane",
+            "name": "Anisul Islam",
             "published_date": "2022-08-24 17:27:34",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            "img": "https://i.ibb.co/JzCnqym/anisul-islam.jpg"
         },
         "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
         "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
@@ -49,7 +49,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "01",
+        "category_id": "breaking-news",
         "rating": {
             "number": 4.8,
             "badge": "Excellent"
@@ -57,9 +57,9 @@
         "total_view": 400,
         "title": "Tucker Carlson Swears Vladimir Putin Is Winning The War In Ukraine",
         "author": {
-            "name": "Jennifer Wood",
+            "name": "Ayman Sadiq",
             "published_date": "2022-08-30 16:38:45",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            "img": "https://i.ibb.co/L91Wq6G/ayman-sadiq.jpg"
         },
         "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
         "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
@@ -71,7 +71,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "02",
+        "category_id": "regular-news",
         "rating": {
             "number": 4.3,
             "badge": "Excellent"
@@ -79,9 +79,9 @@
         "total_view": 400,
         "title": "Tucker Carlson Swears Vladimir Putin Is Winning The War In Ukraine",
         "author": {
-            "name": "Jennifer Wood",
+            "name": "Jhankar Mahbub",
             "published_date": "2022-08-30 16:38:45",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            "img": "https://i.ibb.co/YhgJGFS/jhankar-mahbub.jpg"
         },
         "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
         "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
@@ -93,7 +93,7 @@
             "is_todays_pick": false,
             "is_trending": false
         },
-        "category_id": "03",
+        "category_id": "international-news",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -101,9 +101,9 @@
         "total_view": 980,
         "title": "Joe Biden announces $3 billion in Ukraine weapons aid",
         "author": {
-            "name": "system",
+            "name": "Anisul Islam",
             "published_date": "2022-08-24 23:15:00",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            "img": ""
         },
         "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
         "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
@@ -115,7 +115,7 @@
             "is_todays_pick": false,
             "is_trending": false
         },
-        "category_id": "01",
+        "category_id": "breaking-news",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -123,9 +123,9 @@
         "total_view": 980,
         "title": "Joe Biden announces $3 billion in Ukraine weapons aid",
         "author": {
-            "name": "system",
+            "name": "Ayman Sadiq",
             "published_date": "2022-08-24 23:15:00",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            "img": "https://i.ibb.co/L91Wq6G/ayman-sadiq.jpg"
         },
         "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
         "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
@@ -137,7 +137,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "02",
+        "category_id": "regular-news",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -145,9 +145,9 @@
         "total_view": null,
         "title": "Tucker Carlson: Putin Winning in Ukraine, Biden Hurting West",
         "author": {
-            "name": null,
+            "name": "Jhankar Mahbub",
             "published_date": "2022-08-30 15:00:04",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            "img": "https://i.ibb.co/YhgJGFS/jhankar-mahbub.jpg"
         },
         "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
         "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
@@ -159,7 +159,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "03",
+        "category_id": "international-news",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -167,9 +167,9 @@
         "total_view": 111,
         "title": "America Imported Over $6 Billion in Goods From Russia Since Ukraine Invasion",
         "author": {
-            "name": "system",
+            "name": "Anisul Islam",
             "published_date": null,
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            "img": "https://i.ibb.co/JzCnqym/anisul-islam.jpg"
         },
         "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
         "image_url": "https://i.ibb.co/xh57pkr/unsplash-Eh-Tc-C9s-YXsw-1.png",
@@ -181,7 +181,7 @@
             "is_todays_pick": true,
             "is_trending": false
         },
-        "category_id": "04",
+        "category_id": "sports",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -189,9 +189,9 @@
         "total_view": 733,
         "title": "Shaquille O’Neal auctions a 1000 size 22 Reeboks for $999.32 each!",
         "author": {
-            "name": "Theo Minh Châu",
+            "name": "Sumit Saha",
             "published_date": "2022-08-25 06:03:00",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            "img": "https://i.ibb.co/41dSd7x/sumit.webp"
         },
         "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
         "image_url": "https://i.ibb.co/WNrB5d7/unsplash-Eh-Tc-C9s-YXsw-9.png",
@@ -203,7 +203,7 @@
             "is_todays_pick": false,
             "is_trending": false
         },
-        "category_id": "04",
+        "category_id": "sports",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -225,7 +225,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "05",
+        "category_id": "entertainment",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -233,9 +233,9 @@
         "total_view": 127,
         "title": "9 Things to do in Colorado this Labor Day weekend",
         "author": {
-            "name": "Ukrainska Pravda",
+            "name": "Ayman Sadiq",
             "published_date": "2022-08-25 18:53:49",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            "img": "https://i.ibb.co/L91Wq6G/ayman-sadiq.jpg"
         },
         "thumbnail_url": "https://i.ibb.co/0swsWpF/unsplash-Eh-Tc-C9s-YXsw-17.png",
         "image_url": "https://i.ibb.co/H4p2t3V/unsplash-Eh-Tc-C9s-YXsw-6.png",
@@ -247,7 +247,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "05",
+        "category_id": "entertainment",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -269,7 +269,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "02",
+        "category_id": "regular-news",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -277,9 +277,9 @@
         "total_view": 700,
         "title": "Halo, GTA Vice City Actor Directing Movie About Hunter Biden",
         "author": {
-            "name": "Daniel Deangelo",
+            "name": "Jhankar Mahbub",
             "published_date": "2022-08-30 20:02:52",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            "img": "https://i.ibb.co/YhgJGFS/jhankar-mahbub.jpg"
         },
         "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
         "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
@@ -291,7 +291,7 @@
             "is_todays_pick": false,
             "is_trending": false
         },
-        "category_id": "07",
+        "category_id": "arts",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -313,7 +313,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "01",
+        "category_id": "breaking-news",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -321,9 +321,9 @@
         "total_view": 0,
         "title": "Biden announces $3 billion Ukraine military aid package on its Independence Day",
         "author": {
-            "name": "Reuters",
+            "name": "Ayman Sadiq",
             "published_date": "2022-08-25 03:09:16",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            "img": "https://i.ibb.co/L91Wq6G/ayman-sadiq.jpg"
         },
         "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
         "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
@@ -335,7 +335,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "01",
+        "category_id": "breaking-news",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -343,9 +343,9 @@
         "total_view": 320,
         "title": "U.S. announces largest weapons package for Ukraine",
         "author": {
-            "name": "John Pike",
+            "name": "Ayman Sadiq",
             "published_date": "2022-08-25 07:35:11",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            "img": "https://i.ibb.co/L91Wq6G/ayman-sadiq.jpg"
         },
         "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
         "image_url": "https://i.ibb.co/PxC67LV/unsplash-Eh-Tc-C9s-YXsw-1.png",
@@ -357,7 +357,7 @@
             "is_todays_pick": false,
             "is_trending": false
         },
-        "category_id": "02",
+        "category_id": "regular-news",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -365,9 +365,9 @@
         "total_view": 552,
         "title": "US commander to train Ukraine military",
         "author": {
-            "name": "system",
+            "name": "Jhankar Mahbub",
             "published_date": "2022-08-27 05:38:02",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            "img": "https://i.ibb.co/YhgJGFS/jhankar-mahbub.jpg"
         },
         "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
         "image_url": "https://i.ibb.co/vz5K0FB/unsplash-Eh-Tc-C9s-YXsw-10.png",
@@ -379,7 +379,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "01",
+        "category_id": "breaking-news",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -387,9 +387,9 @@
         "total_view": 89,
         "title": "U.S. concerned about India's participation in Russia military exercises",
         "author": {
-            "name": "MarketScreener",
+            "name": "Ayman Sadiq",
             "published_date": "2022-08-30 18:05:42",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            "img": "https://i.ibb.co/L91Wq6G/ayman-sadiq.jpg"
         },
         "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
         "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
@@ -401,7 +401,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "01",
+        "category_id": "breaking-news",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -409,9 +409,9 @@
         "total_view": 798,
         "title": "Zelensky says he had ‘great conversation' with Biden, discussed Kiev's further steps",
         "author": {
-            "name": "system",
+            "name": "Ayman Sadiq",
             "published_date": "2022-08-25 18:45:00",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            "img": "https://i.ibb.co/L91Wq6G/ayman-sadiq.jpg"
         },
         "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
         "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
@@ -423,7 +423,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "03",
+        "category_id": "international-news",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -431,9 +431,9 @@
         "total_view": 879,
         "title": "US Pledges $3 Bln In Additional Security Assistance For Ukraine",
         "author": {
-            "name": "RTTNews",
+            "name": "Anisul Islam",
             "published_date": "2022-08-25 11:53:13",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            "img": "https://i.ibb.co/JzCnqym/anisul-islam.jpg"
         },
         "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
         "image_url": "https://i.ibb.co/PxC67LV/unsplash-Eh-Tc-C9s-YXsw-1.png",
@@ -445,7 +445,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "01",
+        "category_id": "breaking-news",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -453,9 +453,9 @@
         "total_view": 231,
         "title": "US to name military mission in Ukraine and appoint commander – WSJ",
         "author": {
-            "name": "Kumar Natasha",
+            "name": "Ayman Sadiq",
             "published_date": "2022-08-26 12:15:36",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            "img": "https://i.ibb.co/L91Wq6G/ayman-sadiq.jpg"
         },
         "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
         "image_url": "https://i.ibb.co/vz5K0FB/unsplash-Eh-Tc-C9s-YXsw-10.png",
@@ -467,7 +467,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "02",
+        "category_id": "regular-news",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -475,9 +475,9 @@
         "total_view": 546,
         "title": "Opinion: After a summer of surprising successes, President Biden is on a roll",
         "author": {
-            "name": "The Philadelphia Inquirer",
+            "name": "Jhankar Mahbub",
             "published_date": "2022-08-30 22:00:00",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            "img": "https://i.ibb.co/YhgJGFS/jhankar-mahbub.jpg"
         },
         "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
         "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
@@ -489,7 +489,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "03",
+        "category_id": "international-news",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -497,9 +497,9 @@
         "total_view": 1870,
         "title": "Ukraine receives more military aid from allies on its independence day",
         "author": {
-            "name": "system",
+            "name": "Anisul islam",
             "published_date": "2022-08-24 23:15:00",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            "img": "https://i.ibb.co/JzCnqym/anisul-islam.jpg"
         },
         "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
         "image_url": "https://i.ibb.co/PxC67LV/unsplash-Eh-Tc-C9s-YXsw-1.png",
@@ -512,7 +512,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "07",
+        "category_id": "arts",
         "rating": {
             "number": 4.2,
             "badge": "Excellent"
@@ -522,7 +522,7 @@
         "author": {
             "name": "Presstv",
             "published_date": "2022-08-30 17:44:16",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            "img": ""
         },
         "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
         "image_url": "https://i.ibb.co/hxG29nr/unsplash-Eh-Tc-C9s-YXsw-9.png",
@@ -534,7 +534,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "05",
+        "category_id": "entertainment",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -542,9 +542,9 @@
         "total_view": 100,
         "title": "California to phase out sales of gas-powered cars",
         "author": {
-            "name": "system",
+            "name": "Ayman Sadiq",
             "published_date": "2022-08-26 00:37:24",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            "img": "https://i.ibb.co/L91Wq6G/ayman-sadiq.jpg"
         },
         "thumbnail_url": "https://i.ibb.co/L507x2V/unsplash-Eh-Tc-C9s-YXsw-14.png",
         "image_url": "https://i.ibb.co/tKsvCyR/unsplash-Eh-Tc-C9s-YXsw-3.png",
@@ -556,7 +556,7 @@
             "is_todays_pick": false,
             "is_trending": false
         },
-        "category_id": "04",
+        "category_id": "sports",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -564,9 +564,9 @@
         "total_view": 100,
         "title": "“Max Verstappen has plenty trophies” – Lando Norris wants $50 Million a year Dutch sensation to give him his trophy",
         "author": {
-            "name": "system",
+            "name": "Sumit Saha",
             "published_date": "2022-08-26 00:37:24",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            "img": "https://i.ibb.co/41dSd7x/sumit.webp"
         },
         "thumbnail_url": "https://i.ibb.co/1rcTYYB/unsplash-Eh-Tc-C9s-YXsw-16.png",
         "image_url": "https://i.ibb.co/CVg1Nrt/unsplash-Eh-Tc-C9s-YXsw-5.png",
